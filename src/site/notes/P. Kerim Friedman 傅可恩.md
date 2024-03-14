@@ -21,8 +21,8 @@ Be sure to check out his newsletter, [Triptych](https://triptych.oxus.net), and 
 ### Contacting Kerim
 - e-mail: fulaoshi@oxus.net
 - [Mastodon](https://zirk.us/@kerim)
-- Mailing address:
->[!contact]
+
+>[!Mailing Address]
 >Dr. P. Kerim Friedman  
 >National Dong Hwa University  
 >Department of Ethnic Relations and Cultures  

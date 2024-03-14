@@ -17,10 +17,13 @@ Be sure to check out his newsletter, [Triptych](https://triptych.oxus.net), and 
  - 📓 [[Kerim's Teaching/Kerim's Teaching\|Kerim's Teaching]] - Kerim's course syllabi.
 - 中文 [[關於傅老師\|關於傅老師]] - Chinese version of this page.
 ### Contacting Kerim
-- e-mail: fulaoshi@oxus.net
-- [Mastodon](https://zirk.us/@kerim)
+>[!email]
+>fulaoshi@oxus.net
 
->[!Mailing Address]
+ >[!social-media]
+ >[Mastodon](https://zirk.us/@kerim)
+
+>[!Snail-mail]
 >Dr. P. Kerim Friedman  
 >National Dong Hwa University  
 >Department of Ethnic Relations and Cultures  

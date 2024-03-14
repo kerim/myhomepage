@@ -21,10 +21,10 @@ Be sure to check out his newsletter, [Triptych](https://triptych.oxus.net), and 
 ### Contacting Kerim
 - e-mail: fulaoshi@oxus.net
 - [Mastodon](https://zirk.us/@kerim)
-- Mailing address:
 
-  Dr. P. Kerim Friedman  
-  National Dong Hwa University  
-  Department of Ethnic Relations and Cultures  
-  No. 1, Sec. 2, Da Hsueh Rd.  
-  Shoufeng, Hualien 97401, Taiwan  
+>[!Mailing Address]
+>Dr. P. Kerim Friedman  
+>National Dong Hwa University  
+>Department of Ethnic Relations and Cultures  
+>No. 1, Sec. 2, Da Hsueh Rd.  
+>Shoufeng, Hualien 97401, Taiwan  

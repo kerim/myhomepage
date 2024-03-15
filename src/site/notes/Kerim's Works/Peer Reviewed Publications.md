@@ -7,18 +7,17 @@
 
 ### 2022 (with Sifo Lakaw) “‘No One at School Can Speak Pangcah’: Family Language Policy in an Indigenous Home in Taiwan.” [_International Journal of Taiwan Studies_](https://brill.com/view/journals/ijts/aop/article-10.1163-24688800-20221237/article-10.1163-24688800-20221237.xml) 5 (2).  
 
-#### ([[Lakaw_and_Friedman_2022.pdf|Link to open access preprint version]])
-
 #### Abstract
  > Olic is one of the only members of her generation to be raised speaking Pangcah (Amis) as her first language. Through an exploration of how one family is fighting to save this endangered Austronesian language, we analyze the challenges facing Indigenous language revitalization in Taiwan. Particular attention is paid to the child’s transition from the home to formal—Mandarin-medium—schooling. In doing so, we draw on recent work that emphasizes the agency of children in shaping family language policy (also referred to as ‘family language planning’). How do children’s experiences at school shape their —and other family members —linguistic behavior at home? After comparing Taiwan’s current family language policy to similar efforts elsewhere, we conclude by arguing that taking children's agency seriously means that family language policy must be combined with changes in formal schooling as well —changes that are best implemented by the Indigenous communities themselves.
+ 
+#### ([[Lakaw_and_Friedman_2022.pdf|Link to open access preprint version]])
     
 ### 2021. “The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In [_Taiwan’s Contemporary Indigenous Peoples_](https://www.routledge.com/Taiwans-Contemporary-Indigenous-Peoples/Huang-Davies-Fell/p/book/9780367553579), edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge.
-
-#### ([[Friedman_2021.pdf|Link to open access preprint version]])
 
 #### Abstract  
 > This paper explores the shifting representations of Taiwan’s indigenous peoples in films by indigenous and non-indigenous directors alike. Drawn from over sixty films in the archives of the Taiwan International Ethnographic Film Festival (TIEFF), these films offer a snapshot of the changes in how indigenous personhood has been constructed in Taiwanese documentary films going back to the end of the martial law era. The films are grouped into three overarching Bakhtinian chronotopes, each of which uses indigenous identities to highlight different relations between Taiwan’s past, present, and future, as well as different spatial relations following from those choices. The first chronotope highlights the Japanese colonial encounter with indigenous peoples. The second the continuity between ancient Austronesian culture and the present. And the third focuses on encounters between indigenous people and the modern Taiwanese state. Films are compared within and across these chronotopes to reflect on the shifting nature of indigenous personhood in Taiwan, tracing the way these chronotopes have adapted to shifts in Taiwan’s wider political economic framework. Finally, the paper turns to the work of two young indigenous filmmakers whose films draw on oral histories to transcend all three chronotopes. Salone Ishahavut’s “Alis’s Dreams” (2011) and Su Hung-En’s “The Mountain” (2015), each formulates a unique indigenous “voice” to call for indigenous sovereignty over their own destiny.
 
+#### ([[Friedman_2021.pdf|Link to open access preprint version]])
 
 ### 2020. “Defining Ethnographic Film.” In [_The Routledge International Handbook of Ethnographic Film and Video_](https://www.routledge.com/The-Routledge-International-Handbook-of-Ethnographic-Film-and-Video/Vannini/p/book/9780367185824), edited by Phillip Vannini. Routledge.
 

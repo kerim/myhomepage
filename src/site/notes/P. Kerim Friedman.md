@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/p-kerim-friedman/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/P. Kerim Friedman/","tags":["gardenEntry"]}
 ---
 
 
 ![darren_avatar_(kerim).jpg|200](/img/user/_media/darren_avatar_(kerim).jpg)
 ### About Kerim
-P. Kerim Friedman ([[關於傅老師\|傅可恩]]) is a professor in the [Department of Ethnic Relations and Cultures](https://rc025.ndhu.edu.tw/?Lang=en) at [National Dong Hwa University](https://epage.ndhu.edu.tw/bin/home.php?Lang=en) (NDHU) in Taiwan. His research explores language revitalization efforts among [Indigenous Taiwanese](https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples), looking at the relationship between language ideology, indigeneity, and political economy.
+P. Kerim Friedman ([[傅可恩\|傅可恩]]) is a professor in the [Department of Ethnic Relations and Cultures](https://rc025.ndhu.edu.tw/?Lang=en) at [National Dong Hwa University](https://epage.ndhu.edu.tw/bin/home.php?Lang=en) (NDHU) in Taiwan. His research explores language revitalization efforts among [Indigenous Taiwanese](https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples), looking at the relationship between language ideology, indigeneity, and political economy.
 
 An ethnographic filmmaker, he co-produced the Jean Rouch award-winning documentary, ‘[Please Don’t Beat Me, Sir!](https://pleasedontbeatmesir.fournineandahalf.com/)’ about a street theater troupe from one of India’s Denotified and Nomadic Tribes (DNTs).
 
@@ -13,7 +13,7 @@ Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://ant
 ### What you will find on this site
 - [[Kerim's Works/Kerim's Works\|Kerim's Works]] - Academic and non-academic publications, interviews, and films.
  - [[Kerim's Teaching/Kerim's Teaching\|Kerim's Teaching]] - Course syllabi.
-- [[關於傅老師\|關於傅老師]] - Chinese version of this page.
+- [[傅可恩\|傅可恩]] - Chinese version of this page.
 ### Contacting Kerim
 >[!email]
 >fulaoshi@oxus.net

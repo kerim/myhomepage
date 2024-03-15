@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Kerim's Works/Other Academic Publications/"}
 ---
 
+# Other Academic Publications
+
 The publications on this page have not gone through the vigorous process of peer-review, but are still academic publications that have received editorial feedback.
 
 - 2022. [Review of:《蘭嶼觀點》Voices of Orchid Island](https://www.ioe.sinica.edu.tw/Content/Periodicals/content.aspx?&SiteID=530164240637641451&MenuID=530167100636226027&MSID=1164614165175342106), by Hu Tai-li. Taiwan Journal of Anthropology.

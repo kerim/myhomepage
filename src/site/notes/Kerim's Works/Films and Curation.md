@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Kerim's Works/Films and Curation/"}
 ---
 
+# Films and Curation
+
 Here you can find work that I've done related to visual anthropology.
 
 ## Films

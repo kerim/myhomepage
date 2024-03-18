@@ -4,10 +4,10 @@
 
 # Interviews and Journalism
 
-### Written by me
+### Written by Kerim
 
 [Who's Taiwanese?](https://international.thenewslens.com/feature/taiwan-immigration/142773) - The News Lens International Edition  
-### Interviews with me
+### Interviews with Kerim
 
 [學阿美族語的猶太人：從美國到台灣，傅可恩的人生旅行](https://simivilang.medium.com/%E8%AA%AA%E9%98%BF%E7%BE%8E%E6%97%8F%E8%AA%9E%E7%9A%84%E7%8C%B6%E5%A4%AA%E4%BA%BA-%E5%BE%9E%E7%BE%8E%E5%9C%8B%E5%88%B0%E5%8F%B0%E7%81%A3-%E5%82%85%E5%8F%AF%E6%81%A9%E7%9A%84%E4%BA%BA%E7%94%9F%E6%97%85%E8%A1%8C-c2c5e0cc9368) 
 

@@ -7,7 +7,7 @@
 Here you can find work that I've done related to visual anthropology.
 
 ### Films
-
+![pdbmsposter.jpg](/img/user/Kerim's%20Works/_media/pdbmsposter.jpg)
 #### 2011. (73min) [Please Don't Beat Me, Sir!](http://dontbeatmesir.com/)
 
 [https://player.vimeo.com/video/27718057?color=b88b00&byline=0&portrait=0](https://player.vimeo.com/video/27718057?color=b88b00&byline=0&portrait=0)

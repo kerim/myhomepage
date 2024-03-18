@@ -29,6 +29,6 @@ Here you can find work that I've done related to visual anthropology.
 - [Festival Statement](https://www.tieff.org/en/tieff-2017/statement-for-festival-catalog/)
 
 #### 2017 and 2019 [Sensefield Exhibitions](https://sensefield.org/)
+With co-curators Lee Tzu-tung 李紫彤 & Gabriele de Seta 胡子哥
 
-- With co-curators Lee Tzu-tung 李紫彤 & Gabriele de Seta 胡子哥
 - 2019 (with Gabriele de Seta.) “[Sensefield: An Exhibition of Experimental Ethnography](http://dx.doi.org/10.14434/mar.v13i1.26409).” Museum Anthropology Review 13 (1): 96–102.

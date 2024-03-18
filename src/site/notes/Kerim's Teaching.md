@@ -14,6 +14,8 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [影像民族誌的製作 Visual Ethnography Production (111-2)](https://fulaoshi.notion.site/Visual-Ethnography-Production-111-2-cb731314005d4200841807fe0900e269?pvs=4) - Graduate seminar on production methods in visual anthropology.
 
+[銀幕內外的台灣原住民 Indigenous Taiwanese on and off Screen (112-2)](https://fulaoshi.notion.site/Indigenous-Taiwanese-on-and-off-Screen-112-2-ec89f2dffe5b48828ead91108a8830d7?pvs=74) - Graduate seminar on Indigenous history and memory 
+
 ## 大學系 Undergraduate Courses
 
 [政治經濟學概論 Introduction to Political Economy（111-2)](https://fulaoshi.notion.site/Introduction-to-Political-Economy-112-2-58a88ca5365f42dcb0d05826cf46ddc6?pvs=4) - Undergraduate course on historical and contemporary inequality, focusing on the colonial encounter as well as issues pertaining to class, race, and gender.

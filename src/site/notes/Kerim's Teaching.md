@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Kerim's Teaching/"}
 ---
 
+# Kerim's Teaching
 This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim Friedman]], a professor in the Department of Ethnic Relations & Cultures, at National Dong Hwa University in Taiwan. 這個網頁有[[傅可恩\|傅可恩]]老師的課程大綱。傅老師是花蓮國立東華大學族群關係與文化學系的教授。  
 
 ## 研究所 Graduate Courses

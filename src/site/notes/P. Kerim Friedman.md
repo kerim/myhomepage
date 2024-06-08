@@ -14,7 +14,7 @@ Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://ant
 ### What you will find on this site
 - [[Kerim's Works/Kerim's Works\|Kerim's Works]] - Academic and non-academic publications, interviews, and films.
 - [[Kerim's Teaching\|Kerim's Teaching]] - Course syllabi.
-- [[傅可恩\|傅可恩]] - Chinese version of this page.
+- [[傅可恩\|傅可恩]] - 這個頁面的中文版本。 Chinese version of this page. 
 
 ### Contacting Kerim
 Email: fulaoshi@oxus.net

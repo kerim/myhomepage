@@ -7,12 +7,10 @@
 >[!note]
 >The preprints on this page all say "do not cite" - that is because you should cite the published (and revised) version instead. (Although in most cases these differences are fairly minor.) If you need access to the published version for citation, don't hesitate to [contact me](https://kerim.oxus.net/).
 
-#### 2022 (with Sifo Lakaw) “‘No One at School Can Speak Pangcah’: Family Language Policy in an Indigenous Home in Taiwan.” [_International Journal of Taiwan Studies_](https://brill.com/view/journals/ijts/aop/article-10.1163-24688800-20221237/article-10.1163-24688800-20221237.xml) 5 (2).  
+#### 2022 (with Sifo Lakaw) “‘No One at School Can Speak Pangcah’: Family Language Policy in an Indigenous Home in Taiwan.” [_International Journal of Taiwan Studies_](https://brill.com/view/journals/ijts/aop/article-10.1163-24688800-20221237/article-10.1163-24688800-20221237.xml) 5 (2). ([Preprint](https://www.researchgate.net/publication/361454993_'No_One_at_School_Can_Speak_Pangcah'_Family_Language_Policy_in_an_Indigenous_Home_in_Taiwan)) 
 
 **Abstract**
  > Olic is one of the only members of her generation to be raised speaking Pangcah (Amis) as her first language. Through an exploration of how one family is fighting to save this endangered Austronesian language, we analyze the challenges facing Indigenous language revitalization in Taiwan. Particular attention is paid to the child’s transition from the home to formal—Mandarin-medium—schooling. In doing so, we draw on recent work that emphasizes the agency of children in shaping family language policy (also referred to as ‘family language planning’). How do children’s experiences at school shape their —and other family members —linguistic behavior at home? After comparing Taiwan’s current family language policy to similar efforts elsewhere, we conclude by arguing that taking children's agency seriously means that family language policy must be combined with changes in formal schooling as well —changes that are best implemented by the Indigenous communities themselves.
- 
-([Link to open access preprint version](https://www.researchgate.net/publication/361454993_'No_One_at_School_Can_Speak_Pangcah'_Family_Language_Policy_in_an_Indigenous_Home_in_Taiwan))
 
 #### 2021. “The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In [_Taiwan’s Contemporary Indigenous Peoples_](https://www.routledge.com/Taiwans-Contemporary-Indigenous-Peoples/Huang-Davies-Fell/p/book/9780367553579), edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge.
 

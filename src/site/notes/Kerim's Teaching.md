@@ -29,9 +29,9 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [學習方法與技巧 Basic Study Skills (112-2)](https://fulaoshi.notion.site/Basic-Study-Skills-112-2-38b5ed17c3bc46f195a41bd656235697?pvs=4)  - Core course teaching basic college survival skills to undergraduates. (Co-taught.)
 
-## One-off Courses
+## 單次課程 One-off Courses
 
-Courses I only taught once.  
+Courses I only taught once. 我只教過一次的課程。  
 
 [Indigenous Taiwan on Screen](https://fulaoshi.notion.site/Indigenous-Taiwan-on-Screen-4148c31bdefb4f94a7498ed004d18967?pvs=4) - EC-5 BA Course for the 2021 Spring Semester Leiden University, International Institute for Asian Studies (IIAS)
 

@@ -11,6 +11,9 @@ An ethnographic filmmaker, he co-produced the Jean Rouch award-winning documenta
 
 Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org/) (formerly [Savage Minds](https://savageminds.org/)). His personal blog is [Keywords](https://keywords.oxus.net/). Be sure to check out his newsletter, [Triptych](https://triptych.oxus.net), and his [Digital Garden](https://garden.oxus.net) (a kind of personal wiki) as well.
 
+Subscribe to Triptych:
+<div style="min-height: 58px; max-width: 440px;width: 100%;position: absolute; left: 50%; top:50%; transform: translate(-50%, -50%);"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-button-color="#1a88ff" data-button-text-color="#FFFFFF" data-site="https://triptych.oxus.net/" async></script></div>
+
 ### What you will find on this site
 - [[Kerim's Works/Kerim's Works\|Kerim's Works]] - Academic and non-academic publications, interviews, and films.
 - [[Kerim's Teaching\|Kerim's Teaching]] - Course syllabi.

@@ -21,7 +21,7 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [政治經濟學概論 Introduction to Political Economy（111-2)](https://fulaoshi.notion.site/Introduction-to-Political-Economy-112-2-58a88ca5365f42dcb0d05826cf46ddc6?pvs=4) - Undergraduate course on historical and contemporary inequality, focusing on the colonial encounter as well as issues pertaining to class, race, and gender.
 
-[語言與社會 Language and Society (111-1)](https://fulaoshi.notion.site/Language-and-Society-111-1-1-6fefd5a425fc44dc9d1539c02d9cf1b9?pvs=4) - Undergraduate course that explores the relationships among language, thought, culture, and social structure.
+[語言與社會 Language and Society (113-1)](https://fulaoshi.notion.site/Language-and-Society-113-1-4fdf4b64c5c144a99bc5899cab256ee7?pvs=74) - Undergraduate course that explores the relationships among language, thought, culture, and social structure.
 
 [印度原住民研究 Adivasi Studies (112-1)](https://fulaoshi.notion.site/Adivasi-Studies-fb6ca00a46344a7ea357bac6deec9e95?pvs=4) - Undergraduate course on Indigenous peoples in India.
 

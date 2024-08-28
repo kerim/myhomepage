@@ -25,7 +25,7 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [印度原住民研究 Adivasi Studies (112-1)](https://fulaoshi.notion.site/Adivasi-Studies-fb6ca00a46344a7ea357bac6deec9e95?pvs=4) - Undergraduate course on Indigenous peoples in India.
 
-[原住民影像 Indigenous Images (112-1)](https://fulaoshi.notion.site/Indigenous-Images-112-1-0d1b65d02e184a7b8a75248c62fc0a4b?pvs=4) - Undergraduate course exploring the representation of indigenous peoples in the media.
+[原住民影像 Indigenous Images (113-1)](https://fulaoshi.notion.site/Indigenous-Images-113-1-e16320840d21435fbaf9693b6f1dec4f) - Undergraduate course exploring the representation of indigenous peoples in the media.
 
 [學習方法與技巧 Basic Study Skills (112-2)](https://fulaoshi.notion.site/Basic-Study-Skills-112-2-38b5ed17c3bc46f195a41bd656235697?pvs=4)  - Core course teaching basic college survival skills to undergraduates. (Co-taught.)
 

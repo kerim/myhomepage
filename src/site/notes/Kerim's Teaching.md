@@ -27,7 +27,7 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [原住民影像 Indigenous Images (113-1)](https://fulaoshi.notion.site/Indigenous-Images-113-1-e16320840d21435fbaf9693b6f1dec4f) - Undergraduate course exploring the representation of indigenous peoples in the media.
 
-[學習方法與技巧 Basic Study Skills (112-2)](https://fulaoshi.notion.site/Basic-Study-Skills-112-2-38b5ed17c3bc46f195a41bd656235697?pvs=4)  - Core course teaching basic college survival skills to undergraduates. (Co-taught.)
+[學習方法與技巧 Basic Study Skills (113-2)](https://fulaoshi.notion.site/Basic-Study-Skills-113-2-1124411e263b80e4adc3eb82e47171be)  - Core course teaching basic college survival skills to undergraduates. (Co-taught.)
 
 ## 單次課程 One-off Courses
 

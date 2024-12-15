@@ -9,7 +9,7 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [文化理論專題 Seminar on Cultural Theories （112-1)](https://fulaoshi.notion.site/Seminar-on-Cultural-Theories-112-1-98873af250be4f3192f20f0c3ca45b9b?pvs=4) - Required course for Ph.D. students.
 
-[語言人類學 Linguistic Anthropology (111-1)](https://fulaoshi.notion.site/Linguistic-Anthropology-111-1-1e91a57df40c4d0d8450e874a38747ac?pvs=4) - Graduate seminar on linguistic anthropology.
+[語言人類學 Linguistic Anthropology (113-1)](https://fulaoshi.notion.site/Linguistic-Anthropology-113-1-a0d6bfdc03864969b97f586ea4f6d0de?pvs=4) - Graduate seminar on linguistic anthropology.
 
 [影像民族誌 Visual Ethnography (104-1)](https://fulaoshi.notion.site/Visual-Ethnography-4922547d2baa477abbd9f416f13a2a09?pvs=4) - Graduate seminar on the theory and history of visual anthropology.
 
@@ -19,7 +19,7 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 ## 大學系 Undergraduate Courses
 
-[政治經濟學概論 Introduction to Political Economy（111-2)](https://fulaoshi.notion.site/Introduction-to-Political-Economy-112-2-58a88ca5365f42dcb0d05826cf46ddc6?pvs=4) - Undergraduate course on historical and contemporary inequality, focusing on the colonial encounter as well as issues pertaining to class, race, and gender.
+[政治經濟學概論 Introduction to Political Economy（113-2)](https://fulaoshi.notion.site/Introduction-to-Political-Economy-113-2-15d4411e263b8017b41eeef6708d8e6d?pvs=4) - Undergraduate course on historical and contemporary inequality, focusing on the colonial encounter as well as issues pertaining to class, race, and gender.
 
 [語言與社會 Language and Society (113-1)](https://fulaoshi.notion.site/Language-and-Society-113-1-4fdf4b64c5c144a99bc5899cab256ee7?pvs=74) - Undergraduate course that explores the relationships among language, thought, culture, and social structure.
 

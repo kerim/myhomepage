@@ -19,10 +19,7 @@ Kerim was a co-founder of the anthropology blog [anthro{dendum}](https://anthrod
 ### Contacting Kerim
 Email: fulaoshi@oxus.net
 Signal: [fulaoshi.82](https://signal.me/#eu/uclrrgxMQ1uCZRBQE++XtVNMox5bhtYtpHHDLDRnzTTSw3KXnpNBkL/8mZnpf7qr)
-
 Bluesky: [@kerim.oxus.net](https://bsky.app/profile/kerim.oxus.net)
-Threads: [@kerimfriedman](https://www.threads.net/@kerimfriedman)
-Mastodon: [@kerim@zirk.us](https://zirk.us/@kerim)
 
 >[!Snail-mail]
 >Dr. P. Kerim Friedman  

@@ -6,7 +6,10 @@
 
 ### Written by Kerim
 
-[Who's Taiwanese?](https://international.thenewslens.com/feature/taiwan-immigration/142773) - The News Lens International Edition  
+[Algorithms Don't Make the Rules](https://www.techpolicy.press/algorithms-dont-make-the-rules/) - Tech Policy Press (with Gabriele de Seta)
+
+[Who's Taiwanese?](https://international.thenewslens.com/feature/taiwan-immigration/142773) - The News Lens International ([Archive URL](https://archive.ph/PEEBy)) 
+
 ### Interviews with Kerim
 
 [【青年漢學家標竿學習：國際漢學家系列訪談】——傅可恩X莫加南](https://www.youtube.com/watch?v=OBDtNO21N5Q)
@@ -19,4 +22,4 @@
 
 [慶賀奇美部落首位博士 族人齊聚吟唱歌謠](https://news.ipcf.org.tw/54268) - TITV News 原視新聞網  
 
-[Taiwan's Han Chinese seek a new identity among the island's tribes](https://www.washingtonpost.com/world/2022/04/04/taiwan-indigenous-china-tribes/)  
+[Taiwan's Han Chinese seek a new identity among the island's tribes](https://www.washingtonpost.com/world/2022/04/04/taiwan-indigenous-china-tribes/)

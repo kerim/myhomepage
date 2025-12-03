@@ -7,7 +7,7 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 ## 研究所 Graduate Courses
 
-[文化理論專題 Seminar on Cultural Theories （112-1)](https://fulaoshi.notion.site/Seminar-on-Cultural-Theories-112-1-98873af250be4f3192f20f0c3ca45b9b?pvs=4) - Required course for Ph.D. students.
+[文化理論專題 Seminar on Cultural Theories （114-2)](https://fulaoshi.notion.site/Seminar-on-Cultural-Theories-114-2-98873af250be4f3192f20f0c3ca45b9b?source=copy_link) - Required course for Ph.D. students.
 
 [語言人類學 Linguistic Anthropology (113-1)](https://fulaoshi.notion.site/Linguistic-Anthropology-113-1-a0d6bfdc03864969b97f586ea4f6d0de?pvs=4) - Graduate seminar on linguistic anthropology.
 
@@ -23,9 +23,9 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [語言與社會 Language and Society (113-1)](https://fulaoshi.notion.site/Language-and-Society-113-1-4fdf4b64c5c144a99bc5899cab256ee7?pvs=74) - Undergraduate course that explores the relationships among language, thought, culture, and social structure.
 
-[印度原住民研究 Adivasi Studies (112-1)](https://fulaoshi.notion.site/Adivasi-Studies-fb6ca00a46344a7ea357bac6deec9e95?pvs=4) - Undergraduate course on Indigenous peoples in India.
+[印度原住民研究 Adivasi Studies (114-2)](https://fulaoshi.notion.site/Adivasi-Studies-114-2-2be4411e263b800eb768ef11191f500a?source=copy_link) - Undergraduate course on Indigenous peoples in India.
 
-[原住民影像 Indigenous Images (113-1)](https://fulaoshi.notion.site/Indigenous-Images-113-1-e16320840d21435fbaf9693b6f1dec4f) - Undergraduate course exploring the representation of indigenous peoples in the media.
+[原住民影像 Indigenous Images (114-2)](https://fulaoshi.notion.site/Indigenous-Images-114-2-2bb4411e263b80a1968ae871f491a54d?source=copy_link) - Undergraduate course exploring the representation of indigenous peoples in the media.
 
 [學習方法與技巧 Basic Study Skills (113-2)](https://fulaoshi.notion.site/Basic-Study-Skills-113-2-1124411e263b80e4adc3eb82e47171be)  - Core course teaching basic college survival skills to undergraduates. (Co-taught.)
 

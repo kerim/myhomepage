@@ -11,4 +11,4 @@ My academic and non-academic writing, recorded talks, films, interviews, and pub
 - [[Kerim's Works/Other Academic Publications\|Other Academic Publications]]
 - [[Kerim's Works/Recorded Talks\|Recorded Talks]]
 - [[Kerim's Works/Films and Curation\|Films and Curation]]
-- [[Kerim's Works/Interviews and Journalism\|Interviews and Journalism]]
+- [[Kerim's Works/Interviews, Journalism, and Public Writing\|Interviews, Journalism, and Public Writing]]

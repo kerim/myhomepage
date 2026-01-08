@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Kerim's Works/Interviews, Journalism, and Public Writing/"}
 ---
 
-# Interviews and Journalism
+# Interviews, Journalism, and Public Writing
 
 ### Written by Kerim
 

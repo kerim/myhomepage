@@ -12,6 +12,7 @@
 
 [Who's Taiwanese?](https://international.thenewslens.com/feature/taiwan-immigration/142773) - The News Lens International ([Archive URL](https://archive.ph/PEEBy)), Nov 3, 2020
 
+[Highlights from 18 years of Anthropology blogging](https://anthrodendum.org/2023/12/20/looking-back-looking-forward/) - Dec 20, 2023
 ### Interviews with Kerim
 
 [【青年漢學家標竿學習：國際漢學家系列訪談】——傅可恩X莫加南](https://www.youtube.com/watch?v=OBDtNO21N5Q)

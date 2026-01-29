@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/P. Kerim Friedman/","tags":["gardenEntry"]}
 ---
 
-![RailwayTheaterPortrait.png|250](/img/user/_media/RailwayTheaterPortrait.png)
+![IMG_5552.jpg](/img/user/_media/IMG_5552.jpg)
 
 ### About Kerim
 P. Kerim Friedman ([[傅可恩\|傅可恩]]) is a professor in the [Department of Ethnic Relations and Cultures](https://rc025.ndhu.edu.tw/?Lang=en) at [National Dong Hwa University](https://epage.ndhu.edu.tw/bin/home.php?Lang=en) (NDHU) in Taiwan. His research explores language revitalization efforts among [Indigenous Taiwanese](https://en.wikipedia.org/wiki/Taiwanese_indigenous_peoples), looking at the relationship between language ideology, indigeneity, and political economy.

@@ -6,7 +6,7 @@
 
 ### Written by Kerim
 
-[Yes, “Taiwan Can Help,” but not if it continues to ignore Palestinian voices](https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/) - Positions Politics, July 29, 2025
+[Yes, “Taiwan Can Help,” but not if it continues to ignore Palestinian voices](https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/) - Positions Politics, July 29, 2025 ([archived version](https://web.archive.org/web/20251117132730/https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/))
 
 [Algorithms Don't Make the Rules](https://www.techpolicy.press/algorithms-dont-make-the-rules/) - Tech Policy Press (with Gabriele de Seta), Apr 25, 2025
 

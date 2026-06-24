@@ -6,9 +6,9 @@
 
 ### Written by Kerim
 
-[Are We Friends? What AOC Can Learn from a Taiwanese Historical Romance Novel](https://positionspolitics.org/what-is-a-left-position-on-taiwan/) - Positions Politics, June 22, 2026 ([archived version]([https://web.archive.org/web/20251117132730/https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/](https://archive.ph/wip/aHHwb))). Part of a collection of essays titled "What is a Left Position on Taiwan?"
+[Are We Friends? What AOC Can Learn from a Taiwanese Historical Romance Novel](https://positionspolitics.org/what-is-a-left-position-on-taiwan/) - Positions/Praxis, June 22, 2026 ([archived version]([https://web.archive.org/web/20251117132730/https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/](https://archive.ph/wip/aHHwb))). Part of a collection of essays titled "What is a Left Position on Taiwan?"
 
-[Yes, “Taiwan Can Help,” but not if it continues to ignore Palestinian voices](https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/) - Positions Politics, July 29, 2025 ([archived version](https://web.archive.org/web/20251117132730/https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/))
+[Yes, “Taiwan Can Help,” but not if it continues to ignore Palestinian voices](https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/) - Positions/Praxis, July 29, 2025 ([archived version](https://web.archive.org/web/20251117132730/https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/))
 
 [Algorithms Don't Make the Rules](https://www.techpolicy.press/algorithms-dont-make-the-rules/) - Tech Policy Press (with Gabriele de Seta), Apr 25, 2025
 

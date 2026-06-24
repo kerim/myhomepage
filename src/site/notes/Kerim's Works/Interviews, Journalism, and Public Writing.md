@@ -6,11 +6,13 @@
 
 ### Written by Kerim
 
+[Are We Friends? What AOC Can Learn from a Taiwanese Historical Romance Novel](https://positionspolitics.org/what-is-a-left-position-on-taiwan/) - Positions Politics, June 22, 2026 ([archived version]([https://web.archive.org/web/20251117132730/https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/](https://archive.ph/wip/aHHwb))). Part of a collection of essays titled "What is a Left Position on Taiwan?"
+
 [Yes, “Taiwan Can Help,” but not if it continues to ignore Palestinian voices](https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/) - Positions Politics, July 29, 2025 ([archived version](https://web.archive.org/web/20251117132730/https://positionspolitics.org/p-kerim-friedman-yes-taiwan-can-help-but-not-if-it-continues-to-ignore-palestinian-voices/))
 
 [Algorithms Don't Make the Rules](https://www.techpolicy.press/algorithms-dont-make-the-rules/) - Tech Policy Press (with Gabriele de Seta), Apr 25, 2025
 
-[Who's Taiwanese?](https://international.thenewslens.com/feature/taiwan-immigration/142773) - The News Lens International ([Archive URL](https://archive.ph/PEEBy)), Nov 3, 2020
+[Who's Taiwanese?](https://keywords.oxus.net/archives/2020/11/03/whos-taiwanese) - The News Lens International, Nov 3, 2020
 
 [Highlights from 18 years of Anthropology blogging](https://anthrodendum.org/2023/12/20/looking-back-looking-forward/) - Dec 20, 2023
 ### Interviews with Kerim

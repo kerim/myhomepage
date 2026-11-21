@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Kerim's Teaching/"}
+{"dg-publish":true,"permalink":"/Kerim's Teaching/","dg-note-properties":{}}
 ---
 
 # Kerim's Teaching
@@ -15,11 +15,11 @@ This page contains syllabi for courses taught by [[P. Kerim Friedman\|P. Kerim F
 
 [影像民族誌的製作 Visual Ethnography Production (111-2)](https://fulaoshi.notion.site/Visual-Ethnography-Production-111-2-cb731314005d4200841807fe0900e269?pvs=4) - Graduate seminar on production methods in visual anthropology.
 
-[銀幕內外的台灣原住民 Indigenous Taiwanese on and off Screen (112-2)](https://fulaoshi.notion.site/Indigenous-Taiwanese-on-and-off-Screen-112-2-ec89f2dffe5b48828ead91108a8830d7?pvs=74) - Graduate seminar on Indigenous history and memory 
+[銀幕內外的台灣原住民 Indigenous Taiwanese on and off Screen (115-2)]([https://fulaoshi.notion.site/Indigenous-Taiwanese-on-and-off-Screen-112-2-ec89f2dffe5b48828ead91108a8830d7?pvs=74](https://fulaoshi.notion.site/Indigenous-Taiwanese-on-and-off-Screen-115-2-41f4411e263b8157a0c7f62cd89db427?pvs=74) - Graduate seminar on Indigenous history and memory 
 
 ## 大學系 Undergraduate Courses
 
-[政治經濟學概論 Introduction to Political Economy（113-2)](https://fulaoshi.notion.site/Introduction-to-Political-Economy-113-2-15d4411e263b8017b41eeef6708d8e6d?pvs=4) - Undergraduate course on historical and contemporary inequality, focusing on the colonial encounter as well as issues pertaining to class, race, and gender.
+[政治經濟學概論 Introduction to Political Economy（115-2)]([https://fulaoshi.notion.site/Introduction-to-Political-Economy-113-2-15d4411e263b8017b41eeef6708d8e6d?pvs=4](https://fulaoshi.notion.site/Introduction-to-Political-Economy-115-2-41f4411e263b818a82b5f7b0e95437db) - Undergraduate course on historical and contemporary inequality, focusing on the colonial encounter as well as issues pertaining to class, race, and gender.
 
 [語言與社會 Language and Society (113-1)](https://fulaoshi.notion.site/Language-and-Society-113-1-4fdf4b64c5c144a99bc5899cab256ee7?pvs=74) - Undergraduate course that explores the relationships among language, thought, culture, and social structure.
 
